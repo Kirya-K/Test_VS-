@@ -13,7 +13,7 @@ namespace git_Test
             Console.WriteLine("Введите B:");
             int b = Int32.Parse(Console.ReadLine());
 
-
+///ффффф
 
 
             int f = a / b;
