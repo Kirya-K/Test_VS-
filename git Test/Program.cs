@@ -30,6 +30,8 @@ namespace git_Test
             int e = a * b;
             Console.WriteLine("=" + e);
 
+            //Ghbdtnbrb
+
         }
     }
 }
