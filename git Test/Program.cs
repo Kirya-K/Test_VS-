@@ -15,6 +15,7 @@ namespace git_Test
 
 
 
+
             int f = a / b;
             Console.WriteLine("=" + f);
 
@@ -25,6 +26,9 @@ namespace git_Test
 
             int c = a + b;
             Console.WriteLine("=" + c);
+
+            int e = a * b;
+            Console.WriteLine("=" + e);
 
         }
     }
