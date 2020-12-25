@@ -14,12 +14,17 @@ namespace git_Test
             int b = Int32.Parse(Console.ReadLine());
 
 
+
             int f = a / b;
             Console.WriteLine("=" + f);
 
 
             int d = a - b;
             Console.WriteLine("=" + d);
+
+
+            int c = a + b;
+            Console.WriteLine("=" + c);
 
         }
     }
