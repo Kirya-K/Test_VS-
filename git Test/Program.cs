@@ -6,7 +6,9 @@ namespace git_Test
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Введите А:");
+            int a = Int32.Parse(Console.ReadLine());
+
         }
     }
 }
